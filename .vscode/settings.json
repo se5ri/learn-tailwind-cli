@@ -20,6 +20,6 @@
     "**/output.css": true
   },
   "files.exclude": {
-    "**/output.css": true
+    "**/output.css": false
   }
 }
